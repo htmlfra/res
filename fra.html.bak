@@ -38,6 +38,7 @@
 @media only screen and (max-width: 335px) and (min-width: 300px){
 #google-beiyong-160{display:none;}
 #google-beiyong-300{display:block;margin:0 auto;text-align:center;width:100%;height:auto;overflow: hidden;}
+#google-beiyong-300 .thumbnails-single .videoCube .video-label-box .video-title{height:20px;overflow: hidden;text-overflow: ellipsis;}
 #img728{display:none;}
 #google-beiyong-336{display:none;}
 }
